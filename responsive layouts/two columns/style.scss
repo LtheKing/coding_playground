@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+}
+
+.image {
+    flex: 50%;
+    height: 900px;
+    background-image: url('/images/coffee_logo_2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    margin: auto;
+}
+
+.content{
+    flex: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    margin: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .image{
+        display: none;
+    }
+}

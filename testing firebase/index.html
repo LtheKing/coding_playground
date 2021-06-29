@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="text/javascript" src="index.js"></script>
+    <!-- <script type="text/javascript" src="firebase-messaging-sw.js"></script> -->
+
+    <!-- Insert these scripts at the bottom of the HTML, but before you use any Firebase services -->
+
+    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-app.js"></script>
+
+    <!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-analytics.js"></script>
+
+    <!-- Add Firebase products that you want to use -->
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-firestore.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-messaging.js"></script>
+    <style>
+      div {
+        margin-bottom: 15px;
+      }
+    </style>
+
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>this is aldi's playground</h1>
+    <div id="token"></div>
+    <div id="msg"></div>
+    <div id="notis"></div>
+    <div id="err"></div>
+    <script>
+       MsgElem = document.getElementById("msg")
+       TokenElem = document.getElementById("token")
+       NotisElem = document.getElementById("notis")
+       ErrElem = document.getElementById("err")
+
+      // TODO: Replace firebaseConfig you get from Firebase Console
+            var firebaseConfig = {
+                'messagingSenderId': '959675561431',
+                'apiKey': 'AIzaSyBoOxJVUoGbAsM4zBgazxjzM7MeS4IHEzU',
+                'projectId': 'testing-6051d',
+                'appId': '1:959675561431:web:62ccd9f4f6654d388a8792',
+            };
+            firebase.initializeApp(firebaseConfig);
+
+            const messaging = firebase.messaging();
+            messaging
+                .requestPermission()
+                .then(function () {
+                    MsgElem.innerHTML = 'Notification permission granted.';
+                    console.log('Notification permission granted.');
+
+                    // get the token in the form of promise
+                    return messaging.getToken();
+                })
+                .then(function (token) {
+                    TokenElem.innerHTML = 'Device token is : <br>' + token;
+                })
+                .catch(function (err) {
+                    ErrElem.innerHTML = ErrElem.innerHTML + '; ' + err;
+                    console.log('Unable to get permission to notify.', err);
+                });
+
+            let enableForegroundNotification = true;
+            messaging.onMessage(function (payload) {
+                console.log('Message received. ', payload);
+                NotisElem.innerHTML =
+                    NotisElem.innerHTML + JSON.stringify(payload);
+
+                if (enableForegroundNotification) {
+                    let notification = payload.notification;
+                    navigator.serviceWorker
+                        .getRegistrations()
+                        .then((registration) => {
+                            registration[0].showNotification(notification.title);
+                        });
+                }
+            });
+
+    </script>
+    <button onclick="tesFCM()">test fcm</button>
+  </body>
+</html>

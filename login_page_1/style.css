@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.container .image {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 0px;
+  background-image: url("/img/coffee_logo_2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 300px 300px;
+}
+
+.container .card-login {
+  text-align: center;
+  margin: auto;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 0px;
+  width: 100%;
+}
+
+.container .card-login input[type='text'],
+.container .card-login input[type='password'] {
+  padding: 20px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 22px;
+}
+
+.container .card-login label {
+  display: block;
+  text-align: left;
+  margin-left: 25%;
+  margin-top: 20px;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+.container .card-login h1 {
+  font-family: sans-serif;
+}
+
+.container .card-login input[type='submit'] {
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: gray;
+  color: white;
+  padding: 14px 20px;
+  width: 30%;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  border: 0;
+}
+
+.container .card-login input[type='submit']:hover {
+  background-color: darkgray;
+}
+
+@media only screen and (max-width: 720px) {
+  .image {
+    display: none;
+  }
+  .card-login {
+    width: 100%;
+    margin-top: 50%;
+  }
+}
+/*# sourceMappingURL=style.css.map */

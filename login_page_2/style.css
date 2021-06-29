@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.image {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 10px;
+  background-image: url("/img/coffee_logo_2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 300px 300px;
+}
+
+.content {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 10px;
+}
+
+.login_form {
+  height: auto;
+  margin: 35% 5%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.login_form input[type='text'],
+.login_form input[type='password'] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 15px 20px;
+  margin: 18px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 18px;
+}
+
+.login_form label {
+  display: block;
+  text-align: left;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.login_form h1 {
+  margin-bottom: 1.5cm;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+@media only screen and (max-width: 720px) {
+  .image {
+    display: none;
+  }
+  .login_form-login {
+    width: 100%;
+    margin-top: 50%;
+  }
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.image {
+  flex: 1;
+  padding: 10px;
+  background-image: url('/img/coffee_logo_2.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 300px 300px;
+}
+
+.content {
+  flex: 1;
+  padding: 10px;
+}
+
+.login_form {
+  height: auto;
+  margin: 35% 5%;
+  display: flex;
+  flex-direction: column;
+
+  input[type='text'],
+  input[type='password'] {
+    flex: 1;
+    padding: 15px 20px;
+    margin: 18px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 18px;
+  }
+
+  label {
+    display: block;
+    text-align: left;
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+
+  h1 {
+    margin-bottom: 1.5cm;
+    font-family: sans-serif;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .image{
+    display: none;
+  }
+
+  .login_form-login{
+    width: 100%;
+    margin-top: 50%;
+  }
+}
