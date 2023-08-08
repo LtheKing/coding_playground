@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\MagicSquareGenerator\bin\Debug\net6.0\MagicSquareGenerator.exe
+C:\Users\E14\Documents\playground\MagicSquareGenerator\bin\Debug\net6.0\MagicSquareGenerator.deps.json
+C:\Users\E14\Documents\playground\MagicSquareGenerator\bin\Debug\net6.0\MagicSquareGenerator.runtimeconfig.json
+C:\Users\E14\Documents\playground\MagicSquareGenerator\bin\Debug\net6.0\MagicSquareGenerator.dll
+C:\Users\E14\Documents\playground\MagicSquareGenerator\bin\Debug\net6.0\MagicSquareGenerator.pdb
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.dll
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\refint\MagicSquareGenerator.dll
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.pdb
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\MagicSquareGenerator.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\MagicSquareGenerator\obj\Debug\net6.0\ref\MagicSquareGenerator.dll

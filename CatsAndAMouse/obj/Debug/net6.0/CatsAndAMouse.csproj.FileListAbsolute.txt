@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\CatsAndAMouse\bin\Debug\net6.0\CatsAndAMouse.exe
+C:\Users\E14\Documents\playground\CatsAndAMouse\bin\Debug\net6.0\CatsAndAMouse.deps.json
+C:\Users\E14\Documents\playground\CatsAndAMouse\bin\Debug\net6.0\CatsAndAMouse.runtimeconfig.json
+C:\Users\E14\Documents\playground\CatsAndAMouse\bin\Debug\net6.0\CatsAndAMouse.dll
+C:\Users\E14\Documents\playground\CatsAndAMouse\bin\Debug\net6.0\CatsAndAMouse.pdb
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.dll
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\refint\CatsAndAMouse.dll
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.pdb
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\CatsAndAMouse.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\CatsAndAMouse\obj\Debug\net6.0\ref\CatsAndAMouse.dll

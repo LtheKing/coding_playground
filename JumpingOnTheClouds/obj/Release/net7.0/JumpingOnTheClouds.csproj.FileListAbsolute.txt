@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\bin\Release\net7.0\JumpingOnTheClouds.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\bin\Release\net7.0\JumpingOnTheClouds.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\bin\Release\net7.0\JumpingOnTheClouds.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\bin\Release\net7.0\JumpingOnTheClouds.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\bin\Release\net7.0\JumpingOnTheClouds.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\refint\JumpingOnTheClouds.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\JumpingOnTheClouds.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\JumpingOnTheClouds\obj\Release\net7.0\ref\JumpingOnTheClouds.dll

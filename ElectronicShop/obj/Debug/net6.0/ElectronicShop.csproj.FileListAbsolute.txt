@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\ElectronicShop\bin\Debug\net6.0\ElectronicShop.exe
+C:\Users\E14\Documents\playground\ElectronicShop\bin\Debug\net6.0\ElectronicShop.deps.json
+C:\Users\E14\Documents\playground\ElectronicShop\bin\Debug\net6.0\ElectronicShop.runtimeconfig.json
+C:\Users\E14\Documents\playground\ElectronicShop\bin\Debug\net6.0\ElectronicShop.dll
+C:\Users\E14\Documents\playground\ElectronicShop\bin\Debug\net6.0\ElectronicShop.pdb
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.dll
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\refint\ElectronicShop.dll
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.pdb
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ElectronicShop.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\ElectronicShop\obj\Debug\net6.0\ref\ElectronicShop.dll

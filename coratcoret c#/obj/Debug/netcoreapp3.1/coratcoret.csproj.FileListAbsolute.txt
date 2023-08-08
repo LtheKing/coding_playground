@@ -1,0 +1,14 @@
+C:\Users\E14\Documents\playground\coratcoret c#\bin\Debug\netcoreapp3.1\coratcoret.exe
+C:\Users\E14\Documents\playground\coratcoret c#\bin\Debug\netcoreapp3.1\coratcoret.deps.json
+C:\Users\E14\Documents\playground\coratcoret c#\bin\Debug\netcoreapp3.1\coratcoret.runtimeconfig.json
+C:\Users\E14\Documents\playground\coratcoret c#\bin\Debug\netcoreapp3.1\coratcoret.runtimeconfig.dev.json
+C:\Users\E14\Documents\playground\coratcoret c#\bin\Debug\netcoreapp3.1\coratcoret.dll
+C:\Users\E14\Documents\playground\coratcoret c#\bin\Debug\netcoreapp3.1\coratcoret.pdb
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.dll
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.pdb
+C:\Users\E14\Documents\playground\coratcoret c#\obj\Debug\netcoreapp3.1\coratcoret.genruntimeconfig.cache

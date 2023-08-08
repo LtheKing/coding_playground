@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\bin\Release\net6.0\CountingValleys.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\bin\Release\net6.0\CountingValleys.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\bin\Release\net6.0\CountingValleys.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\bin\Release\net6.0\CountingValleys.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\bin\Release\net6.0\CountingValleys.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\refint\CountingValleys.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\CountingValleys.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\CountingValleys\obj\Release\net6.0\ref\CountingValleys.dll

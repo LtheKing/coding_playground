@@ -1,0 +1,14 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\bin\Release\netcoreapp3.1\GorillaTest.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\bin\Release\netcoreapp3.1\GorillaTest.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\bin\Release\netcoreapp3.1\GorillaTest.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\bin\Release\netcoreapp3.1\GorillaTest.runtimeconfig.dev.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\bin\Release\netcoreapp3.1\GorillaTest.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\bin\Release\netcoreapp3.1\GorillaTest.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\GorillaTest\obj\Release\netcoreapp3.1\GorillaTest.genruntimeconfig.cache

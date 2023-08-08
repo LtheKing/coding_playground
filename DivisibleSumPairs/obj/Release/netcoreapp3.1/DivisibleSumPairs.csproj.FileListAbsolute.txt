@@ -1,0 +1,14 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\bin\Release\netcoreapp3.1\DivisibleSumPairs.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\bin\Release\netcoreapp3.1\DivisibleSumPairs.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\bin\Release\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\bin\Release\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.dev.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\bin\Release\netcoreapp3.1\DivisibleSumPairs.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\bin\Release\netcoreapp3.1\DivisibleSumPairs.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\DivisibleSumPairs\obj\Release\netcoreapp3.1\DivisibleSumPairs.genruntimeconfig.cache

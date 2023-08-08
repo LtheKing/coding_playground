@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <script src="index.js"></script> -->
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="">validate</button>
+</body>
+<script type="module">
+    import { validate } from '/node_modules/mysql-query-validator/dist/'
+
+    try {
+    validate(`
+        create table test (
+          id varchar(20) not null,
+          created_at datetime(6),
+          slug varbinary(255),
+          enabled tinyint(1),
+          labels json // missing comma
+          url blob
+        )
+      `)
+        } catch (err) {
+        console.error(err.message) // syntax error at position N near 'url'
+    }
+
+</script>
+
+</html>

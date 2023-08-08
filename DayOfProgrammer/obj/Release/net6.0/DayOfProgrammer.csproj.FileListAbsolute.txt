@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\bin\Release\net6.0\DayOfProgrammer.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\bin\Release\net6.0\DayOfProgrammer.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\bin\Release\net6.0\DayOfProgrammer.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\bin\Release\net6.0\DayOfProgrammer.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\bin\Release\net6.0\DayOfProgrammer.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\refint\DayOfProgrammer.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\DayOfProgrammer.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\DayOfProgrammer\obj\Release\net6.0\ref\DayOfProgrammer.dll

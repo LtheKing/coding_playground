@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\bin\Release\net6.0\ElectronicShop.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\bin\Release\net6.0\ElectronicShop.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\bin\Release\net6.0\ElectronicShop.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\bin\Release\net6.0\ElectronicShop.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\bin\Release\net6.0\ElectronicShop.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\refint\ElectronicShop.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ElectronicShop.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\ElectronicShop\obj\Release\net6.0\ref\ElectronicShop.dll

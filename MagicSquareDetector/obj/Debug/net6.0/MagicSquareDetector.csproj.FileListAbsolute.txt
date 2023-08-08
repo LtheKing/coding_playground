@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\MagicSquareDetector\bin\Debug\net6.0\MagicSquareDetector.exe
+C:\Users\E14\Documents\playground\MagicSquareDetector\bin\Debug\net6.0\MagicSquareDetector.deps.json
+C:\Users\E14\Documents\playground\MagicSquareDetector\bin\Debug\net6.0\MagicSquareDetector.runtimeconfig.json
+C:\Users\E14\Documents\playground\MagicSquareDetector\bin\Debug\net6.0\MagicSquareDetector.dll
+C:\Users\E14\Documents\playground\MagicSquareDetector\bin\Debug\net6.0\MagicSquareDetector.pdb
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.dll
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\refint\MagicSquareDetector.dll
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.pdb
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\MagicSquareDetector.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\MagicSquareDetector\obj\Debug\net6.0\ref\MagicSquareDetector.dll

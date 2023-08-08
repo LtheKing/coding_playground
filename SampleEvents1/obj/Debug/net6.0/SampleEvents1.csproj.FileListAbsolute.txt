@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\SampleEvents1\bin\Debug\net6.0\SampleEvents1.exe
+C:\Users\E14\Documents\playground\SampleEvents1\bin\Debug\net6.0\SampleEvents1.deps.json
+C:\Users\E14\Documents\playground\SampleEvents1\bin\Debug\net6.0\SampleEvents1.runtimeconfig.json
+C:\Users\E14\Documents\playground\SampleEvents1\bin\Debug\net6.0\SampleEvents1.dll
+C:\Users\E14\Documents\playground\SampleEvents1\bin\Debug\net6.0\SampleEvents1.pdb
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.dll
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\refint\SampleEvents1.dll
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.pdb
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\SampleEvents1.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\SampleEvents1\obj\Debug\net6.0\ref\SampleEvents1.dll

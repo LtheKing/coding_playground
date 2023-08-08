@@ -1,0 +1,14 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\bin\Release\netcoreapp3.1\MigratoryBirds.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\bin\Release\netcoreapp3.1\MigratoryBirds.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\bin\Release\netcoreapp3.1\MigratoryBirds.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\bin\Release\netcoreapp3.1\MigratoryBirds.runtimeconfig.dev.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\bin\Release\netcoreapp3.1\MigratoryBirds.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\bin\Release\netcoreapp3.1\MigratoryBirds.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\MigratoryBirds\obj\Release\netcoreapp3.1\MigratoryBirds.genruntimeconfig.cache

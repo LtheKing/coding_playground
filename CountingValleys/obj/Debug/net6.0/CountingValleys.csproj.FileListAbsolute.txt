@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\CountingValleys\bin\Debug\net6.0\CountingValleys.exe
+C:\Users\E14\Documents\playground\CountingValleys\bin\Debug\net6.0\CountingValleys.deps.json
+C:\Users\E14\Documents\playground\CountingValleys\bin\Debug\net6.0\CountingValleys.runtimeconfig.json
+C:\Users\E14\Documents\playground\CountingValleys\bin\Debug\net6.0\CountingValleys.dll
+C:\Users\E14\Documents\playground\CountingValleys\bin\Debug\net6.0\CountingValleys.pdb
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.dll
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\refint\CountingValleys.dll
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.pdb
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\CountingValleys.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\CountingValleys\obj\Debug\net6.0\ref\CountingValleys.dll

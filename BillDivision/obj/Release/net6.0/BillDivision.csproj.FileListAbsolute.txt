@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\bin\Release\net6.0\BillDivision.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\bin\Release\net6.0\BillDivision.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\bin\Release\net6.0\BillDivision.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\bin\Release\net6.0\BillDivision.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\bin\Release\net6.0\BillDivision.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\refint\BillDivision.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\BillDivision.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\BillDivision\obj\Release\net6.0\ref\BillDivision.dll

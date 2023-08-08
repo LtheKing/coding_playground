@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\bin\Release\net6.0\SalesByMatch.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\bin\Release\net6.0\SalesByMatch.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\bin\Release\net6.0\SalesByMatch.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\bin\Release\net6.0\SalesByMatch.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\bin\Release\net6.0\SalesByMatch.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\refint\SalesByMatch.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\SalesByMatch.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\SalesByMatch\obj\Release\net6.0\ref\SalesByMatch.dll

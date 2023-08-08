@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\bin\Release\net7.0\Coret.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\bin\Release\net7.0\Coret.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\bin\Release\net7.0\Coret.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\bin\Release\net7.0\Coret.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\bin\Release\net7.0\Coret.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\refint\Coret.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\Coret.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Coret\obj\Release\net7.0\ref\Coret.dll

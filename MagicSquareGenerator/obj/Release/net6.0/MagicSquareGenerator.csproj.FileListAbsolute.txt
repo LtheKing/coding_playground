@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\bin\Release\net6.0\MagicSquareGenerator.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\bin\Release\net6.0\MagicSquareGenerator.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\bin\Release\net6.0\MagicSquareGenerator.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\bin\Release\net6.0\MagicSquareGenerator.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\bin\Release\net6.0\MagicSquareGenerator.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\refint\MagicSquareGenerator.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\MagicSquareGenerator.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\MagicSquareGenerator\obj\Release\net6.0\ref\MagicSquareGenerator.dll

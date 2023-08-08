@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\bin\Release\net7.0\RepeatedString.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\bin\Release\net7.0\RepeatedString.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\bin\Release\net7.0\RepeatedString.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\bin\Release\net7.0\RepeatedString.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\bin\Release\net7.0\RepeatedString.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\refint\RepeatedString.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\RepeatedString.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\RepeatedString\obj\Release\net7.0\ref\RepeatedString.dll

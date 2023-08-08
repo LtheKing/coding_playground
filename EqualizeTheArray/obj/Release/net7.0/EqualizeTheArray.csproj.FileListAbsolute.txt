@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\bin\Release\net7.0\EqualizeTheArray.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\bin\Release\net7.0\EqualizeTheArray.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\bin\Release\net7.0\EqualizeTheArray.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\bin\Release\net7.0\EqualizeTheArray.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\bin\Release\net7.0\EqualizeTheArray.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\refint\EqualizeTheArray.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\EqualizeTheArray.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\EqualizeTheArray\obj\Release\net7.0\ref\EqualizeTheArray.dll

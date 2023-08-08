@@ -1,0 +1,15 @@
+C:\Users\E14\Documents\playground\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.exe
+C:\Users\E14\Documents\playground\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.deps.json
+C:\Users\E14\Documents\playground\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.runtimeconfig.json
+C:\Users\E14\Documents\playground\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.dll
+C:\Users\E14\Documents\playground\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.pdb
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.csproj.AssemblyReference.cache
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.AssemblyInfoInputs.cache
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.AssemblyInfo.cs
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.dll
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\refint\DayOfProgrammer.dll
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.pdb
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.genruntimeconfig.cache
+C:\Users\E14\Documents\playground\DayOfProgrammer\obj\Debug\net6.0\ref\DayOfProgrammer.dll
