@@ -1,0 +1,15 @@
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\bin\Release\net7.0\Queen's Attack II.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\bin\Release\net7.0\Queen's Attack II.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\bin\Release\net7.0\Queen's Attack II.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\bin\Release\net7.0\Queen's Attack II.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\bin\Release\net7.0\Queen's Attack II.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\refint\Queen's Attack II.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\Queen's Attack II.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\Queen's Attack II\obj\Release\net7.0\ref\Queen's Attack II.dll

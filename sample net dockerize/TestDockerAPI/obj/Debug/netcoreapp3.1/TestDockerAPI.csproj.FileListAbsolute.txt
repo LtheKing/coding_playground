@@ -19,3 +19,28 @@ C:\Users\E14\Documents\playground\sample net dockerize\TestDockerAPI\obj\Debug\n
 C:\Users\E14\Documents\playground\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.dll
 C:\Users\E14\Documents\playground\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.pdb
 C:\Users\E14\Documents\playground\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.genruntimeconfig.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.StaticWebAssets.xml
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.exe
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.deps.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.runtimeconfig.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.runtimeconfig.dev.json
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\bin\Debug\netcoreapp3.1\TestDockerAPI.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.csproj.AssemblyReference.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.AssemblyInfoInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.AssemblyInfo.cs
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.csproj.CoreCompileInputs.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\staticwebassets\TestDockerAPI.StaticWebAssets.Manifest.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\staticwebassets\TestDockerAPI.StaticWebAssets.Pack.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TestDockerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TestDockerAPI.props
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TestDockerAPI.props
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TestDockerAPI.props
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.dll
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.pdb
+C:\Users\leonaldi.gunawan\Documents\playground .net\sample net dockerize\TestDockerAPI\obj\Debug\netcoreapp3.1\TestDockerAPI.genruntimeconfig.cache

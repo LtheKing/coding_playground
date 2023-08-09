@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n5pAdGpwQIM1CdrpPSpkq538SvU6R0pucniEhv/eYfQcmRKRBzaY2erttOw59A5IfiK6CA1t3eeSOjUYvdboGQ==",
+  "dgSpecHash": "ewCuzX9gS6pNLQg7qZWR4DecE3g4wnH9wgL3THmpsDSI3zsl0VcnTeRV4aiaHeSStUdQrOrVg5miI5heJOiOzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E14\\Documents\\playground\\sample net dockerize\\TestDockerAPI\\TestDockerAPI.csproj",
+  "projectFilePath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\sample net dockerize\\TestDockerAPI\\TestDockerAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\E14\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+    "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],
   "logs": []
 }
