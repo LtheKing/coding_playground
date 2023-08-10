@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\SalesByMatch\\SalesByMatch.csproj": {}
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\SalesByMatch\\SalesByMatch.csproj": {
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\SalesByMatch\\SalesByMatch.csproj",
+        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj",
         "projectName": "SalesByMatch",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\SalesByMatch\\SalesByMatch.csproj",
+        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj",
         "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\SalesByMatch\\obj\\",
+        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\ElectronicShop\\ElectronicShop.csproj",
+      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\ElectronicShop\\ElectronicShop.csproj",
       "projectName": "ElectronicShop",
-      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\ElectronicShop\\ElectronicShop.csproj",
+      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\ElectronicShop\\ElectronicShop.csproj",
       "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\ElectronicShop\\obj\\",
+      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\ElectronicShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

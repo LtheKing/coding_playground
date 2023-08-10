@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\BillDivision\\BillDivision.csproj",
+      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\BillDivision\\BillDivision.csproj",
       "projectName": "BillDivision",
-      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\BillDivision\\BillDivision.csproj",
+      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\BillDivision\\BillDivision.csproj",
       "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\BillDivision\\obj\\",
+      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\BillDivision\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

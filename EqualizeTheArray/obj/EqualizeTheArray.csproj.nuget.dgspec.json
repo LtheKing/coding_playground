@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\EqualizeTheArray\\EqualizeTheArray.csproj": {}
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\EqualizeTheArray\\EqualizeTheArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\EqualizeTheArray\\EqualizeTheArray.csproj": {
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\EqualizeTheArray\\EqualizeTheArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\EqualizeTheArray\\EqualizeTheArray.csproj",
+        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\EqualizeTheArray\\EqualizeTheArray.csproj",
         "projectName": "EqualizeTheArray",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\EqualizeTheArray\\EqualizeTheArray.csproj",
+        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\EqualizeTheArray\\EqualizeTheArray.csproj",
         "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\EqualizeTheArray\\obj\\",
+        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\EqualizeTheArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

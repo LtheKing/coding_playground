@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MigratoryBirds\\MigratoryBirds.csproj": {}
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MigratoryBirds\\MigratoryBirds.csproj": {
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MigratoryBirds\\MigratoryBirds.csproj",
+        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj",
         "projectName": "MigratoryBirds",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MigratoryBirds\\MigratoryBirds.csproj",
+        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj",
         "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MigratoryBirds\\obj\\",
+        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Queen's Attack II\\Queen's Attack II.csproj",
+      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Queen's Attack II\\Queen's Attack II.csproj",
       "projectName": "Queen's Attack II",
-      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Queen's Attack II\\Queen's Attack II.csproj",
+      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Queen's Attack II\\Queen's Attack II.csproj",
       "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Queen's Attack II\\obj\\",
+      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Queen's Attack II\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

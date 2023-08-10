@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Coret\\Coret.csproj": {}
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Coret\\Coret.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Coret\\Coret.csproj": {
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Coret\\Coret.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Coret\\Coret.csproj",
+        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Coret\\Coret.csproj",
         "projectName": "Coret",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Coret\\Coret.csproj",
+        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Coret\\Coret.csproj",
         "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\Coret\\obj\\",
+        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\Coret\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

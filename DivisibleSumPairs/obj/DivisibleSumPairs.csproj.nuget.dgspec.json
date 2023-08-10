@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\DivisibleSumPairs\\DivisibleSumPairs.csproj": {}
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\DivisibleSumPairs\\DivisibleSumPairs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\DivisibleSumPairs\\DivisibleSumPairs.csproj": {
+    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\DivisibleSumPairs\\DivisibleSumPairs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
+        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
         "projectName": "DivisibleSumPairs",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
+        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
         "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\DivisibleSumPairs\\obj\\",
+        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\DivisibleSumPairs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

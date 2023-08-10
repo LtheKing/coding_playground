@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\FormingMagicSquare\\FormingMagicSquare.csproj",
+      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\FormingMagicSquare\\FormingMagicSquare.csproj",
       "projectName": "FormingMagicSquare",
-      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\FormingMagicSquare\\FormingMagicSquare.csproj",
+      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\FormingMagicSquare\\FormingMagicSquare.csproj",
       "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\FormingMagicSquare\\obj\\",
+      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\FormingMagicSquare\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

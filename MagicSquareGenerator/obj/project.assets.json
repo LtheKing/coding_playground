@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MagicSquareGenerator\\MagicSquareGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MagicSquareGenerator\\MagicSquareGenerator.csproj",
       "projectName": "MagicSquareGenerator",
-      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MagicSquareGenerator\\MagicSquareGenerator.csproj",
+      "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MagicSquareGenerator\\MagicSquareGenerator.csproj",
       "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\playground .net\\MagicSquareGenerator\\obj\\",
+      "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MagicSquareGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
