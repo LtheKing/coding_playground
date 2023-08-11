@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uLBpqTee5LmZJiYJHYl7LKkItS7dBu9/3w0JOoAs4S03bdo1v8MpdpOix7TyGHwXqa61QOHrgmgrAfx7RFdYGQ==",
+  "dgSpecHash": "5uKORXXiaqfxRiTeTM4tVRgXxNju3rMofid2IiY59J/keiHPke8z0pQ6NJJNmEIvv7OtF3Dd2NC7PNGM80iB3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\learn\\csharp_playground\\MigratoryBirds\\MigratoryBirds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

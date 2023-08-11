@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj": {}
+    "D:\\learn\\csharp_playground\\MigratoryBirds\\MigratoryBirds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj": {
+    "D:\\learn\\csharp_playground\\MigratoryBirds\\MigratoryBirds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj",
+        "projectUniqueName": "D:\\learn\\csharp_playground\\MigratoryBirds\\MigratoryBirds.csproj",
         "projectName": "MigratoryBirds",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\MigratoryBirds.csproj",
-        "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\MigratoryBirds\\obj\\",
+        "projectPath": "D:\\learn\\csharp_playground\\MigratoryBirds\\MigratoryBirds.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "D:\\learn\\csharp_playground\\MigratoryBirds\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\leonaldi.gunawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.xtremax.com/nuget/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OtSacUeFOC2TflOb/Scc5LIg7ec+ib6P3aM3WazMkh2gaEKxd3VVh3cssS5DzjFGwgqSSi4b0LSImpRHXUEcxQ==",
+  "dgSpecHash": "YmY20gwxH8jtA5yxcGTb+4+kTtqEqCscVpzk8uDHWEXDiT16SafEOMqJIK0txrvELNGYfc/RB+fI5qa63I9ZJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\GorillaTest\\GorillaTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\learn\\csharp_playground\\GorillaTest\\GorillaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

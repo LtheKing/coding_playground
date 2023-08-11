@@ -1,15 +1,15 @@
-﻿static void generateMatrix(int param)
+﻿int value = 0;
+int limit = Convert.ToInt32(Console.ReadLine());
+
+//vertical loop
+for (int i = 0; i < limit; i++)
 {
-    //int limit = param * 2;
-    int limit = 4;
-    int vertical = 0;
-    int horizontal = 0;
-
-    for (int i = 0; i < param; i++)
+    //horizontal loop
+    for (int j = 0; j < limit; j++)
     {
-        Console.WriteLine(i);
+        Console.Write(value + " ");
+        value++;
     }
-}
 
-int param = Convert.ToInt32(Console.ReadLine());
-generateMatrix(param);
+    Console.WriteLine();
+}

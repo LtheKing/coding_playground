@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oVWOPEDWWrrU7KZNitirUsvknqw/s1Vs2qfMUUV3ps1Lih7clhjNnU4Gah61zAP5vGAd7O+5nCjN4wHmj9EU9Q==",
+  "dgSpecHash": "Bgp+v5xmXUBK6qiUDlfPRRB26/3uq/+Dx9cnel5TUE0nvP+2D3UK5ndcRyr6LyLyJyByQycfGZ9sHxgTl1QYRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\learn\\csharp_playground\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

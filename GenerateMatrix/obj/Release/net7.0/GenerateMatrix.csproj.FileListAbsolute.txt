@@ -28,3 +28,18 @@ C:\Users\leonaldi.gunawan\Documents\copy playground\coding_playground\GenerateMa
 C:\Users\leonaldi.gunawan\Documents\copy playground\coding_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.pdb
 C:\Users\leonaldi.gunawan\Documents\copy playground\coding_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.genruntimeconfig.cache
 C:\Users\leonaldi.gunawan\Documents\copy playground\coding_playground\GenerateMatrix\obj\Release\net7.0\ref\GenerateMatrix.dll
+D:\learn\csharp_playground\GenerateMatrix\bin\Release\net7.0\GenerateMatrix.exe
+D:\learn\csharp_playground\GenerateMatrix\bin\Release\net7.0\GenerateMatrix.deps.json
+D:\learn\csharp_playground\GenerateMatrix\bin\Release\net7.0\GenerateMatrix.runtimeconfig.json
+D:\learn\csharp_playground\GenerateMatrix\bin\Release\net7.0\GenerateMatrix.dll
+D:\learn\csharp_playground\GenerateMatrix\bin\Release\net7.0\GenerateMatrix.pdb
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.csproj.AssemblyReference.cache
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.AssemblyInfoInputs.cache
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.AssemblyInfo.cs
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.csproj.CoreCompileInputs.cache
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.dll
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\refint\GenerateMatrix.dll
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.pdb
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\GenerateMatrix.genruntimeconfig.cache
+D:\learn\csharp_playground\GenerateMatrix\obj\Release\net7.0\ref\GenerateMatrix.dll

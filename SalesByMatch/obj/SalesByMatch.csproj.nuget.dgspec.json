@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj": {}
+    "D:\\learn\\csharp_playground\\SalesByMatch\\SalesByMatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj": {
+    "D:\\learn\\csharp_playground\\SalesByMatch\\SalesByMatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj",
+        "projectUniqueName": "D:\\learn\\csharp_playground\\SalesByMatch\\SalesByMatch.csproj",
         "projectName": "SalesByMatch",
-        "projectPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\SalesByMatch.csproj",
-        "packagesPath": "C:\\Users\\leonaldi.gunawan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonaldi.gunawan\\Documents\\copy playground\\coding_playground\\SalesByMatch\\obj\\",
+        "projectPath": "D:\\learn\\csharp_playground\\SalesByMatch\\SalesByMatch.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "D:\\learn\\csharp_playground\\SalesByMatch\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\leonaldi.gunawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.xtremax.com/nuget/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
